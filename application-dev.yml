@@ -1,6 +1,6 @@
 spring:
   aplication:
-    name: CONFIG_DEV
+    name: CONFIG-DEV
 
 
 eureka:
