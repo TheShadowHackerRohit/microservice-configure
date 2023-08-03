@@ -1,6 +1,4 @@
-spring:
-  aplication:
-    name: CONFIG_DEFAULT
+
 
 
 eureka:
