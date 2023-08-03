@@ -1,6 +1,6 @@
 spring:
-  aplication:
-    name: CONFIG_PROD
+  application:
+    name: CONFIG-PROD
 
 
 eureka:
